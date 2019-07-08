@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.kgisl.ar2arlist</groupId>
+  <artifactId>ar2arlist</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190424090135</lastUpdated>
+  </versioning>
+</metadata>

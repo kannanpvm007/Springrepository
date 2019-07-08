@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.kgisl.servletfilter</groupId>
+  <artifactId>servletfilter</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190608071412</lastUpdated>
+  </versioning>
+</metadata>

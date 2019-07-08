@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 08 17:10:44 IST 2019
+commons-dbcp-1.4.pom>nexus=
+commons-dbcp-1.4.jar>nexus=
+commons-dbcp-1.4-sources.jar>nexus=
+commons-dbcp-1.4-javadoc.jar>nexus=

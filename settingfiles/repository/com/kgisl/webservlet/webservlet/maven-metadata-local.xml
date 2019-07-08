@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.kgisl.webservlet</groupId>
+  <artifactId>webservlet</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190617064745</lastUpdated>
+  </versioning>
+</metadata>

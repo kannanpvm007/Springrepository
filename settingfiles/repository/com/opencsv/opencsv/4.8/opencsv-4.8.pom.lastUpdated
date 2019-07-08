@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 02 09:49:30 IST 2019
+http\://nexus.kgfsl.com\:8081/nexus/repository/maven-public/.error=Could not transfer artifact com.opencsv\:opencsv\:pom\:4.8 from/to nexus (http\://nexus.kgfsl.com\:8081/nexus/repository/maven-public/)\: connect timed out
+b6db83ffeac57438a0b17f69a838dd6cdf953df4@default-nexus-http\://nexus.kgfsl.com\:8081/nexus/repository/maven-public/.lastUpdated=1556770770165

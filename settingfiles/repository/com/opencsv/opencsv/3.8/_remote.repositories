@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 30 15:55:50 IST 2019
+opencsv-3.8.pom>nexus=
+opencsv-3.8-sources.jar>nexus=
+opencsv-3.8.jar>nexus=
+opencsv-3.8-javadoc.jar>nexus=
